@@ -1,0 +1,55 @@
+{
+   "status":"OK",
+   "message":"success",
+   "total":3,
+   "data":[
+      {
+         "gasperObjectId":"001731    ",
+         "ticketKey":13520747,
+         "objectKey":851,
+         "statusCodeKey":"80001",
+         "actionCodeKey":"47",
+         "startDate":"2018-04-17T23:27:00.000+0000",
+         "endDate":"2018-04-18T01:22:00.000+0000",
+         "timeOffset":0,
+         "ticketDuration":115,
+         "statusCodeDesc":"Transaction not allowed LOADALL required to do the transaction",
+         "actionCodeDesc":"Out of Service V",
+         "deviceId":"0022300070",
+         "alias2":"G4S       ",
+         "alias3":"XL LA     "
+      },
+      {
+         "gasperObjectId":"001410    ",
+         "ticketKey":12881402,
+         "objectKey":891,
+         "statusCodeKey":"80001",
+         "actionCodeKey":"47",
+         "startDate":"2017-07-23T16:19:00.000+0000",
+         "endDate":"2017-07-23T16:23:00.000+0000",
+         "timeOffset":0,
+         "ticketDuration":4,
+         "statusCodeDesc":"Transaction not allowed LOADALL required to do the transaction",
+         "actionCodeDesc":"Out of Service V",
+         "deviceId":"0022300070",
+         "alias2":"ADV       ",
+         "alias3":"XL LA     "
+      },
+      {
+         "gasperObjectId":"002656    ",
+         "ticketKey":13302751,
+         "objectKey":1063,
+         "statusCodeKey":"80001",
+         "actionCodeKey":"47",
+         "startDate":"2018-01-15T02:30:00.000+0000",
+         "endDate":"2018-01-15T02:34:00.000+0000",
+         "timeOffset":0,
+         "ticketDuration":4,
+         "statusCodeDesc":"Transaction not allowed LOADALL required to do the transaction",
+         "actionCodeDesc":"Out of Service V",
+         "deviceId":"0022300070",
+         "alias2":"ADV       ",
+         "alias3":"XL LA     "
+      }
+   ]
+}
