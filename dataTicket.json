@@ -1,8 +1,4 @@
-{
-   "status":"OK",
-   "message":"success",
-   "total":3,
-   "data":[
+[
       {
          "gasperObjectId":"001731    ",
          "ticketKey":13520747,
@@ -52,4 +48,3 @@
          "alias3":"XL LA     "
       }
    ]
-}
