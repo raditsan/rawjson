@@ -1,0 +1,352 @@
+[
+    {
+        "kontainerKode": "ABC1111",
+        "statusDesc": "Kontainer Out",
+        "statusCode": "2",
+        "statusCount": "1",
+        "longRoomNumber": "1"
+    },
+    {
+        "kontainerKode": "ABC2222",
+        "statusDesc": "Belum Diperiksa",
+        "statusCode": "3",
+        "statusCount": "1",
+        "longRoomNumber": "2"
+    },
+    {
+        "kontainerKode": "ABC4444",
+        "statusDesc": "Belum PKB",
+        "statusCode": "4",
+        "statusCount": "1",
+        "longRoomNumber": "3"
+    },
+    {
+        "kontainerKode": "",
+        "statusDesc": "",
+        "statusCode": "1",
+        "statusCount": "",
+        "longRoomNumber": "4"
+    },
+    {
+        "kontainerKode": "",
+        "statusDesc": "",
+        "statusCode": "1",
+        "statusCount": "",
+        "longRoomNumber": "5"
+    },
+    {
+        "kontainerKode": "ABC9999",
+        "statusDesc": "Selesai Stuffing",
+        "statusCode": "5",
+        "statusCount": "7",
+        "longRoomNumber": "6"
+    },
+    {
+        "kontainerKode": "",
+        "statusDesc": "",
+        "statusCode": "1",
+        "statusCount": "",
+        "longRoomNumber": "7"
+    },
+    {
+        "kontainerKode": "ABC5555",
+        "statusDesc": "Diperiksa",
+        "statusCode": "6",
+        "statusCount": "5",
+        "longRoomNumber": "8"
+    },
+    {
+        "kontainerKode": "ABC6666",
+        "statusDesc": "Belum Diperiksa",
+        "statusCode": "3",
+        "statusCount": "9",
+        "longRoomNumber": "9"
+    },
+    {
+        "kontainerKode": "ABC7777",
+        "statusDesc": "Diperiksa",
+        "statusCode": "6",
+        "statusCount": "3",
+        "longRoomNumber": "10"
+    },
+    {
+        "kontainerKode": "ABC0000",
+        "statusDesc": "Selesai Stuffing",
+        "statusCode": "5",
+        "statusCount": "7",
+        "longRoomNumber": "11"
+    },
+    {
+        "kontainerKode": "ABC2222",
+        "statusDesc": "Belum Diperiksa",
+        "statusCode": "3",
+        "statusCount": "1",
+        "longRoomNumber": "12"
+    },
+    {
+        "kontainerKode": "ABC4444",
+        "statusDesc": "Belum PKB",
+        "statusCode": "4",
+        "statusCount": "1",
+        "longRoomNumber": "13"
+    },
+    {
+        "kontainerKode": "",
+        "statusDesc": "",
+        "statusCode": "1",
+        "statusCount": "",
+        "longRoomNumber": "14"
+    },
+    {
+        "kontainerKode": "",
+        "statusDesc": "",
+        "statusCode": "1",
+        "statusCount": "",
+        "longRoomNumber": "15"
+    },
+    {
+        "kontainerKode": "ABC9999",
+        "statusDesc": "Selesai Stuffing",
+        "statusCode": "5",
+        "statusCount": "7",
+        "longRoomNumber": "16"
+    },
+    {
+        "kontainerKode": "",
+        "statusDesc": "",
+        "statusCode": "1",
+        "statusCount": "",
+        "longRoomNumber": "17"
+    },
+    {
+        "kontainerKode": "",
+        "statusDesc": "",
+        "statusCode": "1",
+        "statusCount": "",
+        "longRoomNumber": "18"
+    },
+    {
+        "kontainerKode": "",
+        "statusDesc": "",
+        "statusCode": "1",
+        "statusCount": "",
+        "longRoomNumber": "19"
+    },
+    {
+        "kontainerKode": "ABC9999",
+        "statusDesc": "Selesai Stuffing",
+        "statusCode": "5",
+        "statusCount": "7",
+        "longRoomNumber": "20"
+    },
+    {
+        "kontainerKode": "",
+        "statusDesc": "",
+        "statusCode": "1",
+        "statusCount": "",
+        "longRoomNumber": "21"
+    },
+    {
+        "kontainerKode": "ABC5555",
+        "statusDesc": "Diperiksa",
+        "statusCode": "6",
+        "statusCount": "5",
+        "longRoomNumber": "22"
+    },
+    {
+        "kontainerKode": "ABC6666",
+        "statusDesc": "Belum Diperiksa",
+        "statusCode": "3",
+        "statusCount": "9",
+        "longRoomNumber": "23"
+    },
+    {
+        "kontainerKode": "ABC7777",
+        "statusDesc": "Diperiksa",
+        "statusCode": "6",
+        "statusCount": "3",
+        "longRoomNumber": "24"
+    },
+    {
+        "kontainerKode": "",
+        "statusDesc": "",
+        "statusCode": "1",
+        "statusCount": "",
+        "longRoomNumber": "25"
+    },
+    {
+        "kontainerKode": "ABC9999",
+        "statusDesc": "Selesai Stuffing",
+        "statusCode": "5",
+        "statusCount": "7",
+        "longRoomNumber": "26"
+    },
+    {
+        "kontainerKode": "",
+        "statusDesc": "",
+        "statusCode": "1",
+        "statusCount": "",
+        "longRoomNumber": "27"
+    },
+    {
+        "kontainerKode": "ABC5555",
+        "statusDesc": "Diperiksa",
+        "statusCode": "6",
+        "statusCount": "5",
+        "longRoomNumber": "28"
+    },
+    {
+        "kontainerKode": "ABC6666",
+        "statusDesc": "Belum Diperiksa",
+        "statusCode": "3",
+        "statusCount": "9",
+        "longRoomNumber": "29"
+    },
+    {
+        "kontainerKode": "ABC7777",
+        "statusDesc": "Diperiksa",
+        "statusCode": "6",
+        "statusCount": "3",
+        "longRoomNumber": "30"
+    },
+    {
+        "kontainerKode": "ABC0000",
+        "statusDesc": "Selesai Stuffing",
+        "statusCode": "5",
+        "statusCount": "7",
+        "longRoomNumber": "31"
+    },
+    {
+        "kontainerKode": "ABC2222",
+        "statusDesc": "Belum Diperiksa",
+        "statusCode": "3",
+        "statusCount": "1",
+        "longRoomNumber": "32"
+    },
+    {
+        "kontainerKode": "ABC4444",
+        "statusDesc": "Belum PKB",
+        "statusCode": "4",
+        "statusCount": "1",
+        "longRoomNumber": "33"
+    },
+    {
+        "kontainerKode": "",
+        "statusDesc": "",
+        "statusCode": "1",
+        "statusCount": "",
+        "longRoomNumber": "34"
+    },
+    {
+        "kontainerKode": "",
+        "statusDesc": "",
+        "statusCode": "1",
+        "statusCount": "",
+        "longRoomNumber": "35"
+    },
+    {
+        "kontainerKode": "ABC9999",
+        "statusDesc": "Selesai Stuffing",
+        "statusCode": "5",
+        "statusCount": "7",
+        "longRoomNumber": "36"
+    },
+    {
+        "kontainerKode": "",
+        "statusDesc": "",
+        "statusCode": "1",
+        "statusCount": "",
+        "longRoomNumber": "37"
+    },
+    {
+        "kontainerKode": "",
+        "statusDesc": "",
+        "statusCode": "1",
+        "statusCount": "",
+        "longRoomNumber": "38"
+    },
+    {
+        "kontainerKode": "",
+        "statusDesc": "",
+        "statusCode": "1",
+        "statusCount": "",
+        "longRoomNumber": "39"
+    },
+    {
+        "kontainerKode": "ABC9999",
+        "statusDesc": "Selesai Stuffing",
+        "statusCode": "5",
+        "statusCount": "7",
+        "longRoomNumber": "40"
+    },
+    {
+        "kontainerKode": "",
+        "statusDesc": "",
+        "statusCode": "1",
+        "statusCount": "",
+        "longRoomNumber": "41"
+    },
+    {
+        "kontainerKode": "ABC5555",
+        "statusDesc": "Diperiksa",
+        "statusCode": "6",
+        "statusCount": "5",
+        "longRoomNumber": "42"
+    },
+    {
+        "kontainerKode": "ABC6666",
+        "statusDesc": "Belum Diperiksa",
+        "statusCode": "3",
+        "statusCount": "9",
+        "longRoomNumber": "43"
+    },
+    {
+        "kontainerKode": "ABC7777",
+        "statusDesc": "Diperiksa",
+        "statusCode": "6",
+        "statusCount": "3",
+        "longRoomNumber": "44"
+    },
+    {
+        "kontainerKode": "ABC9999",
+        "statusDesc": "Selesai Stuffing",
+        "statusCode": "5",
+        "statusCount": "7",
+        "longRoomNumber": "45"
+    },
+    {
+        "kontainerKode": "",
+        "statusDesc": "",
+        "statusCode": "1",
+        "statusCount": "",
+        "longRoomNumber": "46"
+    },
+    {
+        "kontainerKode": "ABC5555",
+        "statusDesc": "Diperiksa",
+        "statusCode": "6",
+        "statusCount": "5",
+        "longRoomNumber": "47"
+    },
+    {
+        "kontainerKode": "ABC6666",
+        "statusDesc": "Belum Diperiksa",
+        "statusCode": "3",
+        "statusCount": "9",
+        "longRoomNumber": "48"
+    },
+    {
+        "kontainerKode": "ABC7777",
+        "statusDesc": "Diperiksa",
+        "statusCode": "6",
+        "statusCount": "3",
+        "longRoomNumber": "49"
+    },
+    {
+        "kontainerKode": "",
+        "statusDesc": "",
+        "statusCode": "1",
+        "statusCount": "",
+        "longRoomNumber": "50"
+    }
+]
